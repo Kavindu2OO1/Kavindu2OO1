@@ -7,7 +7,7 @@
     💻 System programming languages • Java C# C++
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Cars • Code • Art
-    
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/Kavindu2OO1/Kavindu2OO1/refs/heads/main/win-error-error.gif" height="200" />
