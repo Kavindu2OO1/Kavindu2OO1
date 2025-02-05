@@ -9,7 +9,7 @@
     🎮 Music • Games • Cars • Code • Art
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/Kavindu2OO1/Kavindu2OO1/refs/heads/main/win-error-error.gif" height="200" />
+<img src="https://raw.githubusercontent.com/Kavindu2OO1/Kavindu2OO1/refs/heads/main/win-error-error.gif" height="40" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/kavindu-thushantha-herath/))
